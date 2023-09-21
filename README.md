@@ -7,8 +7,7 @@ This repository was created as part of my journey to learn and apply machine lea
 
 This repository includes:
 
-- Machine learning models implemented in various programming languages (e.g., Python, R, Julia).
+- Machine learning models implemented in Python programming language.
 - Datasets used for training and testing these models.
-- Jupyter notebooks and code examples demonstrating how to use these models.
-- Documentation and explanations for different machine learning concepts and algorithms.
+- Jupyter notebooks and code examples demonstrating how to implement these models.
 - Supplementary files and resources that support the models and projects.
