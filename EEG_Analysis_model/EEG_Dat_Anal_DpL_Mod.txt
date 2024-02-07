@@ -1,0 +1,31 @@
+                            EEG analysis of Confusion for Dyslexia Diagnosis.
+
+Procedure:
+    1.Python Modules:
+            1. Numpy
+            2. Pandas
+            3. tensorflow(444.1 MB size)
+                    Command: ' pip install tensorflow'
+            4.seaborn
+            5.matplotlib
+            6.sklearn
+                    Command: ' pip install sklearn '
+
+    2.Check, whether the given dataset files are available in the specified directory.
+    Data_Sets:
+        1.EEG_Data.csv
+        2.Demographic_info.csv
+    
+    3.Check the directory in the code:
+
+        "# DATASET_DIRECTORY
+          df=pd.read_csv("D:\\Software\\Work_Spaces\\Workspace\\Machine_Learning\\EEG_data.csv")
+          data = pd.read_csv("D:\\Software\\Work_Spaces\\Workspace\\Machine_Learning\\demographic_info.csv") "
+        
+        Change the 2 directories, in the code, to the directory of the system, in which the dataset files
+        are stored.
+
+    4.run the code
+
+
+

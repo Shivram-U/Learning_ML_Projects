@@ -1,0 +1,24 @@
+                Parkinson's Disease Detection
+
+Procedure:
+        1.Python modules:
+            1. xgboost
+            2. numpy
+            3. pandas
+            4. sklearn
+            5. os
+            6. sys
+            
+        2.check whether the Dataset files are available in the specified directory.
+            Datasets:
+                1.parkinsons.data
+
+        3.Check, whether the directory of the dataset files given in the code
+         is correct.
+            
+            "#DATASET_DIRECTORY
+             df=pd.read_csv("D:\\Software\\Work_Spaces\\Workspace\\Machine_Learning\\parkinsons.data") "
+
+            Change the directory, with system directory, where the Dataset files are stored.
+        
+        4.run the code.
